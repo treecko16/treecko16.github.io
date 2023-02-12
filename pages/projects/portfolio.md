@@ -17,7 +17,7 @@ In short:
 (WIP)
 
 ## What I've learnt
-- Making a simple website can be very, very easy
+- Making a simple website can be very easy
 - I don't have to touch icky security stuff if all I want is a static site (GitHub signs my Pages for me)
 - Jekyll is a lovely little tool for turning content like Markdown files into webpages
 - I should look into Ruby and its Gems ecosystem, it seems neat
